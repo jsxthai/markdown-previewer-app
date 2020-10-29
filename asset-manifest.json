@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/://jsxthai.github.io/md-previewer/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/://jsxthai.github.io/md-previewer/static/js/main.e39680c9.chunk.js",
+    "main.js.map": "/://jsxthai.github.io/md-previewer/static/js/main.e39680c9.chunk.js.map",
+    "runtime-main.js": "/://jsxthai.github.io/md-previewer/static/js/runtime-main.dfa63cdb.js",
+    "runtime-main.js.map": "/://jsxthai.github.io/md-previewer/static/js/runtime-main.dfa63cdb.js.map",
+    "static/js/2.898027c0.chunk.js": "/://jsxthai.github.io/md-previewer/static/js/2.898027c0.chunk.js",
+    "static/js/2.898027c0.chunk.js.map": "/://jsxthai.github.io/md-previewer/static/js/2.898027c0.chunk.js.map",
+    "static/js/3.86c07620.chunk.js": "/://jsxthai.github.io/md-previewer/static/js/3.86c07620.chunk.js",
+    "static/js/3.86c07620.chunk.js.map": "/://jsxthai.github.io/md-previewer/static/js/3.86c07620.chunk.js.map",
+    "index.html": "/://jsxthai.github.io/md-previewer/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/://jsxthai.github.io/md-previewer/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.898027c0.chunk.js.LICENSE.txt": "/://jsxthai.github.io/md-previewer/static/js/2.898027c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfa63cdb.js",
+    "static/js/2.898027c0.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.e39680c9.chunk.js"
+  ]
+}
