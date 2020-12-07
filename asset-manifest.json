@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/://jsxthai.github.io/md-previewer/static/css/main.73efbf52.chunk.css",
-    "main.js": "/://jsxthai.github.io/md-previewer/static/js/main.76aaf64d.chunk.js",
-    "main.js.map": "/://jsxthai.github.io/md-previewer/static/js/main.76aaf64d.chunk.js.map",
-    "runtime-main.js": "/://jsxthai.github.io/md-previewer/static/js/runtime-main.dfa63cdb.js",
-    "runtime-main.js.map": "/://jsxthai.github.io/md-previewer/static/js/runtime-main.dfa63cdb.js.map",
-    "static/js/2.898027c0.chunk.js": "/://jsxthai.github.io/md-previewer/static/js/2.898027c0.chunk.js",
-    "static/js/2.898027c0.chunk.js.map": "/://jsxthai.github.io/md-previewer/static/js/2.898027c0.chunk.js.map",
-    "static/js/3.86c07620.chunk.js": "/://jsxthai.github.io/md-previewer/static/js/3.86c07620.chunk.js",
-    "static/js/3.86c07620.chunk.js.map": "/://jsxthai.github.io/md-previewer/static/js/3.86c07620.chunk.js.map",
-    "index.html": "/://jsxthai.github.io/md-previewer/index.html",
-    "static/css/main.73efbf52.chunk.css.map": "/://jsxthai.github.io/md-previewer/static/css/main.73efbf52.chunk.css.map",
-    "static/js/2.898027c0.chunk.js.LICENSE.txt": "/://jsxthai.github.io/md-previewer/static/js/2.898027c0.chunk.js.LICENSE.txt"
+    "main.css": "/markdown-previewer-app/static/css/main.73efbf52.chunk.css",
+    "main.js": "/markdown-previewer-app/static/js/main.76aaf64d.chunk.js",
+    "main.js.map": "/markdown-previewer-app/static/js/main.76aaf64d.chunk.js.map",
+    "runtime-main.js": "/markdown-previewer-app/static/js/runtime-main.91b804f7.js",
+    "runtime-main.js.map": "/markdown-previewer-app/static/js/runtime-main.91b804f7.js.map",
+    "static/js/2.898027c0.chunk.js": "/markdown-previewer-app/static/js/2.898027c0.chunk.js",
+    "static/js/2.898027c0.chunk.js.map": "/markdown-previewer-app/static/js/2.898027c0.chunk.js.map",
+    "static/js/3.86c07620.chunk.js": "/markdown-previewer-app/static/js/3.86c07620.chunk.js",
+    "static/js/3.86c07620.chunk.js.map": "/markdown-previewer-app/static/js/3.86c07620.chunk.js.map",
+    "index.html": "/markdown-previewer-app/index.html",
+    "static/css/main.73efbf52.chunk.css.map": "/markdown-previewer-app/static/css/main.73efbf52.chunk.css.map",
+    "static/js/2.898027c0.chunk.js.LICENSE.txt": "/markdown-previewer-app/static/js/2.898027c0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfa63cdb.js",
+    "static/js/runtime-main.91b804f7.js",
     "static/js/2.898027c0.chunk.js",
     "static/css/main.73efbf52.chunk.css",
     "static/js/main.76aaf64d.chunk.js"
