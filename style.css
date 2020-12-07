@@ -58,8 +58,6 @@ body {
 .title {
     border: none;
     text-align: center;
-    color: #0f3d3d;
-    margin-top: 20px;
 }
 
 blockquote {
@@ -70,14 +68,14 @@ blockquote {
 }
 
 code {
-    background: #77b1b1;
+    background: white;
     padding: 1px 4px 2px 4px;
     font-size: 12px;
     font-weight: bold;
 }
 
 pre {
-    background: #77b1b1;
+    background: white;
     padding: 5px 0 5px 5px;
 }
 
